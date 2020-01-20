@@ -4,7 +4,9 @@ Backjoon Online Judge - Algorithm Study
 # 알고리즘 스터디
 
 
-# 01/20 OT
+## 01/20 OT
+- 아래의 진행 순서대로 문제풀이 진행
+- 다음 주까지 풀어올 문제 : [1158]<https://www.acmicpc.net/problem/1158>, [1874]<https://www.acmicpc.net/problem/1874>
 
 
 
