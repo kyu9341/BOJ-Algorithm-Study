@@ -8,7 +8,8 @@ Backjoon Online Judge - Algorithm Study
 
 
 
-## 진행순
+## 진행순서
+
 ### 자료구조 1
 - 스택 10828
 - 단어 뒤집기 9093
