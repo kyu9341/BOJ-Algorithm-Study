@@ -7,6 +7,8 @@ Backjoon Online Judge - Algorithm Study
 # 01/20 OT
 
 
+
+## 진행순
 ### 자료구조 1
 - 스택 10828
 - 단어 뒤집기 9093
@@ -42,7 +44,7 @@ Backjoon Online Judge - Algorithm Study
 - 팩토리얼
 - 팩토리얼 0의 개수
 - 조합 0의 개수
-## 수학 1 (연습)
+### 수학 1 (연습)
 - GCD 합
 - 숨바꼭질 6
 - 2진수 8진수
