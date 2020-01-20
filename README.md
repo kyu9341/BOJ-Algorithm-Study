@@ -4,9 +4,12 @@ Backjoon Online Judge - Algorithm Study
 # 알고리즘 스터디
 
 
-# 01/20 OT
+## 01/20 OT
+- 아래의 진행 순서대로 문제풀이 진행
+- 다음 주까지 풀어올 문제 : [9012](https://www.acmicpc.net/problem/9012) , [1874](https://www.acmicpc.net/problem/1874), [1406](https://www.acmicpc.net/problem/1406), [1158](https://www.acmicpc.net/problem/1158)
+- 오늘 풀어본 문제 : [10828](https://www.acmicpc.net/problem/10828), [10845](https://www.acmicpc.net/problem/10845), [9093](https://www.acmicpc.net/problem/9093)
 
-
+![2020_01_20_orientation](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems)
 
 ## 진행순서
 
