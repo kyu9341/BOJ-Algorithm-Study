@@ -14,19 +14,19 @@ Backjoon Online Judge - Algorithm Study
 ## 진행순서
 
 ### 자료구조 1
-- 스택 10828
-- 단어 뒤집기 9093
-- 괄호 9012
-- 스택 수열 1874
-- 에디터 1406
-- 큐 10845
-- 조세퍼스 문제1158
+- 스택 [10828](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10828)
+- 단어 뒤집기 [9093](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9093)
+- 괄호 [9012](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9012)
+- 스택 수열 [1874](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1874)
+- 에디터 [1406](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1406)
+- 큐 [10845](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10845)
+- 조세퍼스 문제 [1158](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1158)
 
 ### 201 - 자료구조 1 (연습)
-- 단어 뒤집기2 17413
-- 쇠막대기
-- 오큰수
-- 오등큰수
+- 단어 뒤집기2 [17413](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17413)
+- 쇠막대기 [10799](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10799)
+- **오큰수** [17298](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17298)
+- 오등큰수 [17299](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17299)
 
 ### 자료구조 1 (참고)
 - 후위 표기식2
@@ -93,4 +93,75 @@ Backjoon Online Judge - Algorithm Study
 - RGB거리 2
 - 합분해
 
+### 브루트 포스
+- 일곱 난쟁이
+- 사탕 게임
+- 날짜 계산
+- 리모컨
+- 테트로미노
+- 카잉 달력
+- 수 이어 쓰기 1
+- 1, 2, 3 더하기
+### 브루트 포스 (N과 M)
+- N과 M (1)
+- N과 M (2)
+- N과 M (3)
+- N과 M (4)
+- N과 M (5)
+- N과 M (6)
+- N과 M (7)
+- N과 M (8)
+- N과 M (9)
+- N과 M (10)
+- N과 M (11)
+- N과 M (12)
+### 브루트 포스 - 순열
+- 다음 순열
+- 이전 순열
+- 모든 순열
+- 차이를 최대로
+- 외판원 순회 2
+- 로또
+### 브루트 포스 - 재귀
+- 1, 2, 3 더하기
+- 암호 만들기
+- 퇴사
+- 스타트와 링크
+- 링크와 스타트
+- 부등호
+- 맞춰봐
+### 브루트 포스 - 비트마스크
+- 집합
+- 부분수열의 합
+- 스타트와 링크
+- 종이 조각
+### 그래프 1
+- ABCDE
+- DFS와 BFS
+- 연결 요소의 개수
+- 이분 그래프
+- 단지번호붙이기
+- 섬의 개수
+- 미로 탐색
+- 토마토
+- 나이트의 이동
+### 그래프 1 (연습)
+- Two Dots
+- 서울 지하철 2호선
+### 그래프 1 (도전)
+- BFS 스페셜 저지
+- DFS 스페셜 저지
+- 다리 만들기
+### BFS
+- 숨바꼭질
+- 숨바꼭질 4
+- 이모티콘
+- 숨바꼭질 3
+- 알고스팟
+### 트리 1
+- 트리 순회
+- 트리의 높이와 너비
+- 트리의 부모 찾기
+- 트리의 지름
+- 트리의 지름
 
