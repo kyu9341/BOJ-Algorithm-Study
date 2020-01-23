@@ -29,8 +29,8 @@ Backjoon Online Judge - Algorithm Study
 - 오등큰수 [17299](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17299)
 
 ### 자료구조 1 (참고)
-- 후위 표기식2 [1918](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1918)
-- 후위 표기식 [1935](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1935)
+- 후위 표기식2 [1935](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1935)
+- 후위 표기식 [1918](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1918)
 - 알파벳 개수
 - 알파벳 찾기
 - 문자열 분석
