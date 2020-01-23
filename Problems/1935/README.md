@@ -47,7 +47,6 @@ AA+A+
 
 
 ### 코드 설명
-아래의 코드는 자꾸 틀리다고 나오는데 아직 뭐가 틀린지는 잘 모르겠다.
 ```C++
 #include<iostream>
 #include<string>
