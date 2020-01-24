@@ -34,7 +34,7 @@ Backjoon Online Judge - Algorithm Study
 - 알파벳 개수 [10808](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10808)
 - 알파벳 찾기 [10809](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10809)
 - 문자열 분석 [10820](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10820)
-- 단어 길이 재기 [10430](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10430)
+- 단어 길이 재기 [2743](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2743)
 - ROT13 [11655](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11655)
 - 네 수 [10824](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10824)
 - 접미사 배열 [11656](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11656)
