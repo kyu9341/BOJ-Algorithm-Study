@@ -41,13 +41,13 @@ Backjoon Online Judge - Algorithm Study
 ### 수학 1
 - 나머지 [10430](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10430)
 - 최대공약수와 최소공배수 [2609](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2609)
-- 최소공배수
-- 소수 찾기
-- 소수 구하기
-- 골드바흐의 추측
-- 팩토리얼
-- 팩토리얼 0의 개수
-- 조합 0의 개수
+- 최소공배수 [1934](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1934)
+- 소수 찾기 [1978](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1978)
+- 소수 구하기 [1929](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1929)
+- 골드바흐의 추측 [6588](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/6588)
+- 팩토리얼 [10872](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10872)
+- 팩토리얼 0의 개수 [1676](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1676)
+- 조합 0의 개수 [2004](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2004)
 ### 수학 1 (연습)
 - GCD 합
 - 숨바꼭질 6
