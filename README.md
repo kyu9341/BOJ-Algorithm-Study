@@ -40,7 +40,7 @@ Backjoon Online Judge - Algorithm Study
 - 접미사 배열 [11656](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11656)
 ### 수학 1
 - 나머지 [10430](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10430)
-- 최대공약수와 최소공배수
+- 최대공약수와 최소공배수 [2609](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2609)
 - 최소공배수
 - 소수 찾기
 - 소수 구하기
