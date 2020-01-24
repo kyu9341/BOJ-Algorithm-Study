@@ -31,13 +31,13 @@ Backjoon Online Judge - Algorithm Study
 ### 자료구조 1 (참고)
 - 후위 표기식2 [1935](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1935)
 - 후위 표기식 [1918](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1918)
-- 알파벳 개수
-- 알파벳 찾기
-- 문자열 분석
-- 단어 길이 재기
-- ROT13
-- 네 수
-- 접미사 배열
+- 알파벳 개수 [10808](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10808)
+- 알파벳 찾기 [10809](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10809)
+- 문자열 분석 [10820](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10820)
+- 단어 길이 재기 [2743](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2743)
+- ROT13 [11655](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11655)
+- 네 수 [10824](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10824)
+- 접미사 배열 [11656](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11656)
 ### 수학 1
 - 나머지 [10430](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10430)
 - 최대공약수와 최소공배수
