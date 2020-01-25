@@ -49,8 +49,8 @@ Backjoon Online Judge - Algorithm Study
 - 팩토리얼 0의 개수 [1676](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1676)
 - 조합 0의 개수 [2004](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2004)
 ### 수학 1 (연습)
-- GCD 합
-- 숨바꼭질 6
+- GCD 합 [9613](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9613)
+- 숨바꼭질 6 [17087](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17087)
 - 2진수 8진수
 - 8진수 2진수
 - -2진수
