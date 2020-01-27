@@ -2,7 +2,8 @@
 Backjoon Online Judge - Algorithm Study
 
 # 알고리즘 스터디
-### 
+
+### 참여 인원
 - 권영언
 - 이선재
 - 정희주
