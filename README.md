@@ -51,9 +51,9 @@ Backjoon Online Judge - Algorithm Study
 ### 수학 1 (연습)
 - GCD 합 [9613](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9613)
 - 숨바꼭질 6 [17087](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17087)
-- 2진수 8진수
-- 8진수 2진수
-- -2진수
+- 2진수 8진수 [1373](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1373)
+- 8진수 2진수 [1212](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1212)
+- -2진수 [2089](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2089)
 - 골드바흐 파티션
 ### 수학 1 (참고)
 - 진법 변환 2
