@@ -2,7 +2,10 @@
 Backjoon Online Judge - Algorithm Study
 
 # 알고리즘 스터디
-
+### 
+- 권영언
+- 이선재
+- 정희주
 
 ## 2020/01/20 1st week - OT
 - 아래의 진행 순서대로 문제풀이 진행
