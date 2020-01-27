@@ -65,12 +65,12 @@ Backjoon Online Judge - Algorithm Study
 - 2진수 8진수 [1373](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1373)
 - 8진수 2진수 [1212](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1212)
 - -2진수 [2089](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2089)
-- 골드바흐 파티션
+- 골드바흐 파티션 [17103](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17103)
 ### 수학 1 (참고)
-- 진법 변환 2
-- 진법 변환
-- Base Conversion
-- 소인수분해
+- 진법 변환 2 [11005](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11005)
+- 진법 변환 [2745](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2745)
+- Base Conversion [11576](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11576)
+- 소인수분해 [11653](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11653)
 ### 다이나믹 프로그래밍 1
 - 1로 만들기
 - 2×n 타일링
