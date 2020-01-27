@@ -13,7 +13,9 @@ Backjoon Online Judge - Algorithm Study
 
 ## 2020/01/20 2nd week 
 - 오늘 풀어본 문제 : [9093 단어 뒤집기](https://www.acmicpc.net/problem/9093), [9012 괄호](https://www.acmicpc.net/problem/9012) , [1406 에디터](https://www.acmicpc.net/problem/1406), [1158 조세퍼스 문제](https://www.acmicpc.net/problem/1158), [1874 스택 수열](https://www.acmicpc.net/problem/1874)
-- 다음 주까지 풀어올 문제 : [17413 단어뒤집기2](https://www.acmicpc.net/problem/17413), [10799 쇠막대기](https://www.acmicpc.net/problem/10799), [17298 오큰수](https://www.acmicpc.net/problem/17298), [17299 오등큰수](https://www.acmicpc.net/problem/17299)
+- 다음 주까지 풀어올 문제 : [17413 단어뒤집기2](https://www.acmicpc.net/problem/17413), [10799 쇠막대기](https://www.acmicpc.net/problem/10799), [17298 오큰수](https://www.acmicpc.net/problem/17298), [17299 오등큰수](https://www.acmicpc.net/problem/17299), [1935 후위 표기식2](https://www.acmicpc.net/problem/1935), [1918 후위 표기식](https://www.acmicpc.net/problem/1918)
+
+
 ![2020_01_27_2nd_week](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/2020_01_27_2nd_week.jpg)
 
 ## 진행순서
