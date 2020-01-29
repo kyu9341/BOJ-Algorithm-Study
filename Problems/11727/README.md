@@ -56,8 +56,7 @@ int main(void)
 	int n;
 	cin >> n;
 
-	cout << tiling_bottom_up(n) <<'\n';
-
+	cout << tiling_top_down(n) <<'\n';
 }
 
 // 2xn 타일링 문제에서 d[n - 2]인 경우가 두배가 된 것.
@@ -87,7 +86,7 @@ int tiling_top_down(int n)
 		return d[n];
 	else
 	{
-		d[n] = d[n - 1] + d[n - 2] * 2;
+		d[n] = tiling_top_down(n - 1) + tiling_top_down(n - 2) * 2;
 		d[n] %= 10007;
 	}
 	return d[n];
