@@ -72,10 +72,10 @@ Backjoon Online Judge - Algorithm Study
 - Base Conversion [11576](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11576)
 - 소인수분해 [11653](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11653)
 ### 다이나믹 프로그래밍 1
-- 1로 만들기
-- 2×n 타일링
-- 2×n 타일링 2
-- 1, 2, 3 더하기
+- 1로 만들기 [1463](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1463)
+- 2×n 타일링 [11726](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11726)
+- 2×n 타일링 2 [11727](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11727)
+- 1, 2, 3 더하기 [9095](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9095)
 - 카드 구매하기
 - 카드 구매하기 2
 - 1, 2, 3 더하기 5
