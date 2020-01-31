@@ -82,9 +82,9 @@ Backjoon Online Judge - Algorithm Study
 - 쉬운 계단 수 [10844](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10844)
 - 이친수 [2193](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2193)
 - 가장 긴 증가하는 부분 수열 [11053](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11053)
-- 가장 긴 증가하는 부분 수열 4 [14002](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14002)
-- 연속합
-- 제곱수의 합
+- **가장 긴 증가하는 부분 수열 4** [14002](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14002)
+- 연속합 [1912](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1912)
+- 제곱수의 합 [1699](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1699)
 - 합분해
 ### 다이나믹 프로그래밍 1 (연습)
 - 1, 2, 3 더하기 3
