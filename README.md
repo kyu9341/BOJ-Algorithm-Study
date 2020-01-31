@@ -75,14 +75,14 @@ Backjoon Online Judge - Algorithm Study
 - 1로 만들기 [1463](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1463)
 - 2×n 타일링 [11726](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11726)
 - 2×n 타일링 2 [11727](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11727)
-- 1, 2, 3 더하기 [9095](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9095)
-- 카드 구매하기
-- 카드 구매하기 2
-- 1, 2, 3 더하기 5
-- 쉬운 계단 수
-- 이친수
-- 가장 긴 증가하는 부분 수열
-- 가장 긴 증가하는 부분 수열 4
+- 1, 2, 3 더하기 [9095](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9095) 
+- 카드 구매하기 [11052](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11052)
+- 카드 구매하기 2 [16194](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16194)
+- 1, 2, 3 더하기 5 [15990](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/15990)
+- 쉬운 계단 수 [10844](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10844)
+- 이친수 [2193](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2193)
+- 가장 긴 증가하는 부분 수열 [11053](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11053)
+- 가장 긴 증가하는 부분 수열 4 [14002](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14002)
 - 연속합
 - 제곱수의 합
 - 합분해
