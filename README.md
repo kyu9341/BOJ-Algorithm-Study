@@ -85,12 +85,12 @@ Backjoon Online Judge - Algorithm Study
 - **가장 긴 증가하는 부분 수열 4** [14002](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14002)
 - 연속합 [1912](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1912)
 - 제곱수의 합 [1699](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1699)
-- 합분해
+- 합분해 [2225](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2225)
 ### 다이나믹 프로그래밍 1 (연습)
-- 1, 2, 3 더하기 3
-- RGB거리
-- 동물원
-- 오르막 수
+- 1, 2, 3 더하기 3 [15988](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/15988)
+- RGB거리 [1149](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1149)
+- 동물원 [1309](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1309)
+- 오르막 수 [11057](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11057)
 - 스티커
 - 포도주 시식
 - 정수 삼각형
