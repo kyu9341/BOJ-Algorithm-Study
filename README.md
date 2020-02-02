@@ -91,18 +91,18 @@ Backjoon Online Judge - Algorithm Study
 - RGB거리 [1149](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1149)
 - 동물원 [1309](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1309)
 - 오르막 수 [11057](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11057)
-- 스티커
-- 포도주 시식
-- 정수 삼각형
-- 가장 큰 증가 부분 수열
-- 가장 긴 감소하는 부분 수열
-- 가장 긴 바이토닉 부분 수열
-- 연속합 2
-- 타일 채우기
+- 스티커 [9465](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9465)
+- 포도주 시식 [2156](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2156)
+- 정수 삼각형 [1932](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1932)
+- 가장 큰 증가 부분 수열 [11055](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11055)
+- 가장 긴 감소하는 부분 수열 [11722](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11722)
+- 가장 긴 바이토닉 부분 수열 [11054](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11054)
+- 연속합 2  [13398](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13398)
+- 타일 채우기 [2133](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2133)
 ### 다이나믹 프로그래밍 1 (도전)
-- 동물원
-- RGB거리 2
-- 합분해
+- 동물원 [1309](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1309) 
+- RGB거리 2 [17404](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17404)
+- 합분해 [2225](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2225)
 
 ### 브루트 포스
 - 일곱 난쟁이
