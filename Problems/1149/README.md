@@ -38,14 +38,13 @@ RGB거리에 사는 사람들은 집을 빨강, 초록, 파랑중에 하나로 �
 
 ### 코드 설명
 ```C++
-
 #include<iostream>
 #include<algorithm>
 using namespace std;
 
 int rgb[1001][3];
 int d[1001][3]; // d[i][j] = i번 집을 색 j로 칠했을 때, 1~i번 집을 칠하는 비용의 최솟값
-const int MAX = 1000000;
+
 int main(void)
 {
 	ios_base::sync_with_stdio(false);
