@@ -22,6 +22,12 @@ Backjoon Online Judge - Algorithm Study
 
 ![2020_01_27_2nd_week](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/2020_01_27_2nd_week.jpg)
 
+
+## 2020/02/04 3rd week 
+- 오늘 풀어본 문제 : [17413 단어뒤집기2](https://www.acmicpc.net/problem/17413), [10799 쇠막대기](https://www.acmicpc.net/problem/10799), [17298 오큰수](https://www.acmicpc.net/problem/17298), [17299 오등큰수](https://www.acmicpc.net/problem/17299), [1935 후위 표기식2](https://www.acmicpc.net/problem/1935), [1918 후위 표기식](https://www.acmicpc.net/problem/1918)
+- 다음 주까지 풀어올 문제 : [9095 2×n 타일링 2](https://www.acmicpc.net/problem/9095), [11727 1, 2, 3 더하기](https://www.acmicpc.net/problem/11727)
+
+![2020_02_04_3nd_week](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/2020_02_04_3nd_week.jpg)
 ## 진행순서
 
 ### 자료구조 1
