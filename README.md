@@ -115,8 +115,8 @@ Backjoon Online Judge - Algorithm Study
 ### 브루트 포스
 - 일곱 난쟁이 [2309](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2309)
 - 사탕 게임 [3085](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/3085)
-- 날짜 계산
-- 리모컨
+- 날짜 계산 [1476](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1476)
+- 리모컨 [1107](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1107)
 - 테트로미노
 - 카잉 달력
 - 수 이어 쓰기 1
