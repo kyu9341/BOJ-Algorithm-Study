@@ -3,6 +3,7 @@
 using namespace std;
 int a[10]; // 입력 배열
 int out[10]; // 출력 배열
+bool check[10]; // 중복 체크
 void go(int index, int n, int m)
 {
 	if (m == index)
@@ -17,8 +18,11 @@ void go(int index, int n, int m)
 	}
 	for (int i = 0; i < n; i++)
 	{
+		if (check[i]) continue; // 이전에 나온 수이면 넘어감
 		out[index] = a[i];
+		check[i] = true; // 중복 체크
 		go(index + 1, n, m);
+		check[i] = false;
 	}
 }
 
