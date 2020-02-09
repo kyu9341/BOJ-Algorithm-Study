@@ -135,8 +135,8 @@ Backjoon Online Judge - Algorithm Study
 - N과 M (11)
 - N과 M (12)
 ### 브루트 포스 - 순열
-- 다음 순열
-- 이전 순열
+- 다음 순열 [10972](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10972) 
+- 이전 순열 [10973](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10973) 
 - 모든 순열
 - 차이를 최대로
 - 외판원 순회 2
