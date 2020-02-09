@@ -46,7 +46,10 @@
 	- d[0] = 1 // 공집합, 모든 숫자를 0개씩 사용하는 경우 1
 	- d[1] = 1 // 1
 	- d[2] = 2 // 1+1, 2
+
+	
 ### 코드 설명
+- 동적 계획법
 ```C++
 #include<iostream>
 
@@ -98,5 +101,32 @@ int sum123_bottom_up(int n)
 		d[i] = d[i - 1] + d[i - 2] + d[i - 3];
 	}
 	return d[n];
+}
+```
+
+- 부르트 포스(재귀)
+```cpp
+#include<iostream>
+
+using namespace std;
+int go(int sum, int goal)
+{
+	if (sum > goal) return 0;	// 1, 2, 3으로 원하는 수를 만들 수 없는 경우
+	if (sum == goal) return 1;  // 만든 경우
+	int count = 0;
+	for (int i = 1; i <= 3; i++)
+		count += go(sum + i, goal);
+	return count;
+}
+int main(void)
+{
+	int t;
+	cin >> t;
+	while(t--)
+	{
+		int n;
+		cin >> n;
+		cout << go(0, n) << '\n';
+	}
 }
 ```
