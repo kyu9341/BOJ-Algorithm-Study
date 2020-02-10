@@ -46,7 +46,12 @@ istw
 	- 4개의 암호를 뽑는 것이므로 벡터 d에 1을 4번 삽입하고 나머지는 0을 삽입한다.
 	- a, e, i, o, u의 모음인 경우 vowel변수에 true를 넣어 모음이 하나 이상 들어갔음을 판별하고
 	- 자음인 경우 자음 개수를 카운트하여 2개 이상 자음이 포함되었는지 판별하여 두 조건을 모두 만족하는 경우 벡터에 추가한다.
-	
+
+- 재귀
+	- 암호 알파벳 수와 암호 후보 알파벳이 있는 벡터, 결과 암호, 인덱스를 인자로 하는 재귀함수를 작성
+	- 암호 알파벳 수가 다 채워진 경우 암호에 모음 하나, 자음 두개가 포함되었는지 검사하는 함수를 통해 정상적인 암호라면 출력한다.
+	- 정답을 구할 수 없는 경우 리턴(모든 a의 알파벳을 사용했는데 비밀번호를 만들지 못한 경우)
+	- i번째 인덱스의 알파벳을 사용하는 경우와 사용하지 않는 경우 각각 재귀함수를 호출
 
 ### 코드 설명
 - 순열 이용
@@ -113,6 +118,63 @@ int main(void)
 - 재귀 함수 이용
 ```cpp
 
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#include<string>
+using namespace std;
 
+bool check(string password) // 만들어진 암호가 자음 두개 모음 하나 이상을 포함하는 암호인지 확인하는 함수
+{
+	int ja = 0;
+	int mo = 0;
+
+	for (auto x : password)
+	{
+		if (x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u')
+		{
+			mo++;
+		}
+		else
+		{
+			ja++;
+		}
+	}
+	if (ja >= 2 && mo >= 1)
+		return true;
+	else
+		return false;
+}
+
+void go(int n, vector<char>& a, string password, int i) // n : 암호알파벳 수, a는 사용할 수 있는 알파벳 벡터, password : 결과 암호, i : 인덱스
+{
+	if (password.length() == n) // 암호 알파벳 수가 다 채워진 경우
+	{
+		if (check(password))
+		{
+			cout << password << '\n';
+		}
+		return;
+	}
+	if (i >= a.size()) return; // 모든 a의 알파벳을 사용했는데 비밀번호를 만들지 못한 경우
+	go(n, a, password + a[i], i + 1); // a[i] 알파벳을 사용하는 경우
+	go(n, a, password, i + 1); // a[i] 알파벳을 사용하지 않는 경우
+}
+
+
+int main(void)
+{
+	int l, c;
+	cin >> l >> c;
+	vector<char> a(c);
+	for (int i = 0; i < c; i++) // 후보 문자 입력
+		cin >> a[i];
+	sort(a.begin(), a.end());
+
+	string password = "";
+
+	go(l, a, password, 0);
+
+}
 
 ```
