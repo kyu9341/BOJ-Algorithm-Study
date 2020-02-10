@@ -142,9 +142,9 @@ Backjoon Online Judge - Algorithm Study
 - 외판원 순회 2 [10971](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10971) 
 - 로또 [6603](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/6603) 
 ### 브루트 포스 - 재귀
-- 1, 2, 3 더하기
-- 암호 만들기
-- 퇴사
+- 1, 2, 3 더하기 [9095](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9095) 
+- 암호 만들기 [1759](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1759) 
+- 퇴사 [14501](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14501) 
 - 스타트와 링크
 - 링크와 스타트
 - 부등호
