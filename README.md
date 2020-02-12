@@ -151,7 +151,7 @@ Backjoon Online Judge - Algorithm Study
 - 맞춰봐
 ### 브루트 포스 - 비트마스크
 - 집합
-- 부분수열의 합
+- 부분수열의 합 [1182](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1182) 
 - 스타트와 링크
 - 종이 조각
 ### 그래프 1
