@@ -34,9 +34,10 @@ Backjoon Online Judge - Algorithm Study
 ![2020_02_04_3rd_week](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/2020_02_04_3rd_week.jpg)
 
 ## 2020/02/14 4rd week 
-- 오늘 풀어본 문제 : [1918 후위 표기식](https://www.acmicpc.net/problem/1918), [10808 알파벳 개수](https://www.acmicpc.net/problem/10808), [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809), [10820 문자열 분석](https://www.acmicpc.net/problem/10820), [11655 ROT13](https://www.acmicpc.net/problem/11655), [10824 네 수](https://www.acmicpc.net/problem/10824), [11656 접미사 배열](https://www.acmicpc.net/problem/11656), [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727), [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+- 오늘 풀어본 문제 : [1918 후위 표기식](https://www.acmicpc.net/problem/1918), [10808 알파벳 개수](https://www.acmicpc.net/problem/10808), [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809), [10820 문자열 분석](https://www.acmicpc.net/problem/10820), [11655 ROT13](https://www.acmicpc.net/problem/11655), [10824 네 수](https://www.acmicpc.net/problem/10824), [11656 접미사 배열](https://www.acmicpc.net/problem/11656), [11727 2×n 타일링 2](https://www.acmicpc.net/problem/11727), [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095), [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)
 
-- 다음 주까지 풀어올 문제 :
+
+- 다음 주까지 풀어올 문제 : [카드 구매하기2 16194](https://www.acmicpc.net/problem/16194), [가장 긴 증가하는 부분 수열 11053](https://www.acmicpc.net/problem/11053), [최대공약수와 최소공배수 2609](https://www.acmicpc.net/problem/2609), [소수 찾기 1978](https://www.acmicpc.net/problem/1978), [골드바흐의 추측 6588](https://www.acmicpc.net/problem/6588), [팩토리얼 0의 개수 1676](https://www.acmicpc.net/problem/1676), [조합 0의 개수 2004](https://www.acmicpc.net/problem/2004)
 ![2020_02_14_4rd_week](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/2020_02_14_4rd_week.jpg)
 
 
