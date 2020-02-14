@@ -168,7 +168,7 @@ Backjoon Online Judge - Algorithm Study
 ### 그래프 1
 - ABCDE [13023](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13023) 
 - DFS와 BFS [1260](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1260) 
-- 연결 요소의 개수
+- 연결 요소의 개수 [11724](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11724) 
 - 이분 그래프
 - 단지번호붙이기
 - 섬의 개수
