@@ -38,6 +38,7 @@ Backjoon Online Judge - Algorithm Study
 
 
 - 다음 주까지 풀어올 문제 : [카드 구매하기2 16194](https://www.acmicpc.net/problem/16194), [가장 긴 증가하는 부분 수열 11053](https://www.acmicpc.net/problem/11053), [최대공약수와 최소공배수 2609](https://www.acmicpc.net/problem/2609), [소수 찾기 1978](https://www.acmicpc.net/problem/1978), [골드바흐의 추측 6588](https://www.acmicpc.net/problem/6588), [팩토리얼 0의 개수 1676](https://www.acmicpc.net/problem/1676), [조합 0의 개수 2004](https://www.acmicpc.net/problem/2004)
+
 ![2020_02_14_4rd_week](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/2020_02_14_4rd_week.jpg)
 
 
