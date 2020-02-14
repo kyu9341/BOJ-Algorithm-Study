@@ -12,7 +12,7 @@
 첫째 줄에 2×n 크기의 직사각형을 채우는 방법의 수를 10,007로 나눈 나머지를 출력한다.
 
 ### 문제 링크
-<https://www.acmicpc.net/problem/11726>
+<https://www.acmicpc.net/problem/11727>
 
 ### 예제 입력 1
 2
