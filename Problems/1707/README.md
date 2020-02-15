@@ -32,7 +32,7 @@ YES
 NO
 
 ### solve
-- 그래프를 다음과 같이 A와 B로 나눌 수 있으면 이분 그래프라고 한다.
+- 그래프를 다음과 같이 A와 B로 나눌 수 있으면 **이분 그래프** 라고 한다.
 
 ![bipartite_graph](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/bipartite_graph.png)
 
