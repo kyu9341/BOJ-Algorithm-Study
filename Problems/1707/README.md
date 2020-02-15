@@ -33,7 +33,15 @@ NO
 
 ### solve
 - 그래프를 다음과 같이 A와 B로 나눌 수 있으면 이분 그래프라고 한다.
-![bipartite_graph](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/bipartite_graph)
+
+![bipartite_graph](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/bipartite_graph.png)
+
+- A에 포함된 정점끼리 연결된 간선이 없음
+- B에 포함된 정점끼리 연결된 간선이 없음
+- 모든 간선의 한 끝 점은 A에, 다른 끝 점은 B에
+
+
+
 
 ### 코드 설명
 ```C++
