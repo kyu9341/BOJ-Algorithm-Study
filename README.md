@@ -171,8 +171,8 @@ Backjoon Online Judge - Algorithm Study
 - DFS와 BFS [1260](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1260) 
 - 연결 요소의 개수 [11724](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11724) 
 - 이분 그래프 [1707](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1707) 
-- 단지번호붙이기
-- 섬의 개수
+- 단지번호붙이기 [2667](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2667) 
+- 섬의 개수 [4963](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/4963) 
 - 미로 탐색
 - 토마토
 - 나이트의 이동
