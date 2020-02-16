@@ -38,7 +38,9 @@
 - 인접한 집들 별로 단지번호를 붙여준다.(이미 탐색을 수행했는지도 파악)
 - 모든 좌표를 확인하여 단지 번호를 붙이고 새로운 배열에 같은 단지 번호를 가지는 주택의 수를 파악하여 저장한다.
 	- 이후 count(단지번호 수)만큼 정렬을 수행하여 오름차순으로 출력한다.
-
+- bfs로 구현
+	- x, y 좌표를 pair로 묶어 queue에 push
+	- dfs와 같은 방식으로 구현
 
 
 ### 코드 설명
@@ -48,6 +50,7 @@
 #include<vector>
 #include<string>
 #include<cstdio>
+#include<queue>
 
 using namespace std;
 
@@ -77,13 +80,43 @@ void dfs(int x, int y, int count)
 
 }
 
+void bfs(int x, int y, int count)
+{
+	queue<pair<int, int>> q;
+	q.push(make_pair(x, y));
+	d[x][y] = count; // 현재 좌표에 단지번호 붙이기
+
+	while (!q.empty())
+	{
+		x = q.front().first;
+		y = q.front().second;
+		q.pop(); // 맨 앞 좌표 저장후 pop
+
+		for (int i = 0; i < 4; i++)
+		{
+			int nx = x + dx[i];
+			int ny = y + dy[i];
+
+			if (nx >= 0 && ny >= 0 && nx < n && ny < n)
+			{
+				if (a[nx][ny] == 1 && d[nx][ny] == 0) // 다음 좌표가 육지이고 아직 방문하지 않은 경우
+				{
+					q.push(make_pair(nx, ny)); // 다음 좌표 push
+					d[nx][ny] = count; // 방문처리 and 단지번호 붙이기
+				}
+			}
+		}
+	}
+
+}
+
 int main(void)
 {
 	cin >> n;
 
 	for (int i = 0; i < n; i++)
 		for (int j = 0; j < n; j++)
-			scanf("%1d", &a[i][j]); // 한자리씩 입력
+			scanf_s("%1d", &a[i][j]); // 한자리씩 입력
 
 
 	int count = 0; // 단지 번호(연결 요소의 개수)
@@ -92,7 +125,9 @@ int main(void)
 		{
 			if (a[i][j] == 1 && d[i][j] == 0) // 현재 좌표에 집이 있고 탐색되지 않은 경우
 			{
-				dfs(i, j, count + 1);
+
+				bfs(i, j, count + 1);
+				// dfs(i, j, count + 1);
 				count++;
 			}
 
@@ -115,4 +150,5 @@ int main(void)
 		cout << ans[i] << '\n';
 
 }
+
 ```
