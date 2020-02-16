@@ -1,6 +1,8 @@
 #include<iostream>
 #include<vector>
 #include<algorithm>
+#include<queue>
+#include<cstring>
 
 using namespace std;
 vector<int> a[1001];
@@ -18,6 +20,31 @@ void dfs(int node)
 			dfs(next); // 다음 노드 탐색
 		}
 	}
+}
+
+void bfs(int start)
+{
+	queue<int> q;	// 큐 선언
+
+	check[start] = true; // 첫 노드 방문처리
+	q.push(start); // 시작 노드 큐에 삽입
+
+	while (!q.empty()) // 큐가 비어있지 않으면 반복
+	{
+		int node = q.front(); // 큐의 맨 앞 원소 저장
+		q.pop(); // 큐에서 하나의 노드를 꺼냄
+		
+		for (int i = 0; i < a[node].size(); i++)
+		{
+			int next = a[node][i];
+			if (check[next] == false) // 방문하지 않은 노드라면
+			{
+				check[next] = true; // 방문 처리
+				q.push(next); // 큐에 push
+			}
+		}
+	}
+
 }
 
 int main(void)
@@ -38,7 +65,7 @@ int main(void)
 	{
 		if (!check[i]) // 방문하지 않은 노드이면 탐색
 		{		// 이미 방문했던 노드는 어떤 하나의 연결 요소에 포함되었을 것임
-			dfs(i);
+			bfs(i);
 			cnt++;
 		}
 	}
