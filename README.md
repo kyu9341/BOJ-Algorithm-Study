@@ -177,7 +177,7 @@ Backjoon Online Judge - Algorithm Study
 - 토마토 [7576](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/7576) 
 - 나이트의 이동 [7562](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/7562) 
 ### 그래프 1 (연습)
-- Two Dots
+- Two Dots [16929](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16929) 
 - 서울 지하철 2호선
 ### 그래프 1 (도전)
 - BFS 스페셜 저지
