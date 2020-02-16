@@ -41,7 +41,7 @@
 
 ### solve
 - 연결 요소란, 하나의 노드에 대해 간선으로 연결된 모든 노드의 집합이다.
-- 연결 요소의 개수를 구하기 위해 인접 리스트를 입력 받고 dfs를 이용하여 모든 노드를 확인한다.
+- 연결 요소의 개수를 구하기 위해 인접 리스트를 입력 받고 dfs또는 bfs를 이용하여 모든 노드를 확인한다.
 	- 이때 이전에 방문했던 노드라면 이미 다른 연결 요소에 포함되었다는 뜻이므로 방문하지 않은 노드라면 탐색을 수행하고 연결 요소의 개수를 1증가시킨다.
 
 
@@ -50,6 +50,8 @@
 #include<iostream>
 #include<vector>
 #include<algorithm>
+#include<queue>
+#include<cstring>
 
 using namespace std;
 vector<int> a[1001];
@@ -67,6 +69,31 @@ void dfs(int node)
 			dfs(next); // 다음 노드 탐색
 		}
 	}
+}
+
+void bfs(int start)
+{
+	queue<int> q;	// 큐 선언
+
+	check[start] = true; // 첫 노드 방문처리
+	q.push(start); // 시작 노드 큐에 삽입
+
+	while (!q.empty()) // 큐가 비어있지 않으면 반복
+	{
+		int node = q.front(); // 큐의 맨 앞 원소 저장
+		q.pop(); // 큐에서 하나의 노드를 꺼냄
+
+		for (int i = 0; i < a[node].size(); i++)
+		{
+			int next = a[node][i];
+			if (check[next] == false) // 방문하지 않은 노드라면
+			{
+				check[next] = true; // 방문 처리
+				q.push(next); // 큐에 push
+			}
+		}
+	}
+
 }
 
 int main(void)
@@ -87,13 +114,11 @@ int main(void)
 	{
 		if (!check[i]) // 방문하지 않은 노드이면 탐색
 		{		// 이미 방문했던 노드는 어떤 하나의 연결 요소에 포함되었을 것임
-			dfs(i);
+			bfs(i);
 			cnt++;
 		}
 	}
 
 	cout << cnt << '\n';
-} 연결 요소란, 하나의 노드에 대해 간선으로 연결된 모든 노드의 집합이다.
-- 연결 요소의 개수를 구하기 위해 인접 리스트를 입력 받고 dfs를 이용하여 모든 노드를 확인한다.
-	- 이때 이전에 방문했던 노드라면 이미 다른 연결 요소에 포함되었다는 뜻이므로 방문하지 않은 노드라면 탐색을 수행하고 연결 요소의 개수를 1증가시킨다.
+}
 ```
