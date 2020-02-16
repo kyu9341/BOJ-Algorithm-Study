@@ -91,9 +91,11 @@ No
 		- 재귀를 수행할 때 이미 방문했던 노드이며, cnt - dist[x][y] >= 4 인 경우 사이클이 형성된다.
 
 - 사이클이 형성되지 않는 경우
+
 ![cycle](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/cycle2.png)
 
 - 사이클이 형성되는 경우
+
 ![cycle](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/cycle1.png)
 
 
