@@ -173,9 +173,9 @@ Backjoon Online Judge - Algorithm Study
 - 이분 그래프 [1707](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1707) 
 - 단지번호붙이기 [2667](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2667) 
 - 섬의 개수 [4963](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/4963) 
-- 미로 탐색
-- 토마토
-- 나이트의 이동
+- 미로 탐색 [2178](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2178) 
+- 토마토 [7576](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/7576) 
+- 나이트의 이동 [7562](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/7562) 
 ### 그래프 1 (연습)
 - Two Dots
 - 서울 지하철 2호선
