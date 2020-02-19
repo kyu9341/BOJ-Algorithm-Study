@@ -178,9 +178,9 @@ Backjoon Online Judge - Algorithm Study
 - 나이트의 이동 [7562](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/7562) 
 ### 그래프 1 (연습)
 - Two Dots [16929](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16929) 
-- 서울 지하철 2호선
+- 서울 지하철 2호선 [16947](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16947) 
 ### 그래프 1 (도전)
-- BFS 스페셜 저지
+- BFS 스페셜 저지 [16940](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16940) 
 - DFS 스페셜 저지
 - 다리 만들기
 ### BFS
