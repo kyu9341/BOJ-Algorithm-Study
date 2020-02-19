@@ -182,7 +182,7 @@ Backjoon Online Judge - Algorithm Study
 ### 그래프 1 (도전)
 - BFS 스페셜 저지 [16940](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16940) 
 - DFS 스페셜 저지
-- 다리 만들기
+- 다리 만들기 [2146](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2146) 
 ### BFS
 - 숨바꼭질
 - 숨바꼭질 4
