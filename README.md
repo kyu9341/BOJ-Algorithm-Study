@@ -193,8 +193,8 @@ Backjoon Online Judge - Algorithm Study
 - 다리 만들기 [2146](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2146) 
 ### BFS
 - 숨바꼭질 [1697](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1697) 
-- 숨바꼭질 4
-- 이모티콘
+- 숨바꼭질 4 [13913](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13913) 
+- 이모티콘 [14226](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14226) 
 - 숨바꼭질 3
 - 알고스팟
 ### 트리 1
