@@ -132,6 +132,8 @@ Backjoon Online Judge - Algorithm Study
 - RGB거리 2 [17404](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/17404)
 - 합분해 [2225](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2225)
 
+---
+
 ### 브루트 포스
 - 일곱 난쟁이 [2309](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2309)
 - 사탕 게임 [3085](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/3085)
@@ -195,14 +197,16 @@ Backjoon Online Judge - Algorithm Study
 - 숨바꼭질 [1697](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1697) 
 - 숨바꼭질 4 [13913](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13913) 
 - 이모티콘 [14226](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14226) 
-- 숨바꼭질 3
-- 알고스팟
+- 숨바꼭질 3 [14226](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14226) 
+- 알고스팟 [14226](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14226) 
 ### 트리 1
-- 트리 순회
-- 트리의 높이와 너비
-- 트리의 부모 찾기
-- 트리의 지름
-- 트리의 지름
+- 트리 순회 [1991](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1991) 
+- 트리의 높이와 너비 
+- 트리의 부모 찾기 [11725](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11725) 
+- 트리의 지름 [1167](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1167) 
+- 트리의 지름 [1967](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1967) 
+
+---
 
 ### 브루트 포스 - 순열 (연습)
 - 부등호
