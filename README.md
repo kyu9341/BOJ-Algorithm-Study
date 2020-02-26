@@ -211,8 +211,8 @@ Backjoon Online Judge - Algorithm Study
 - 동전 [11047](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11047)
 - 회의실배정 [1931](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1931)
 - ATM [11399](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11399)
-- 행렬
-- 전구와 스위치
+- 행렬 [1080](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1080)
+- 전구와 스위치 [2138](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2138)
 - 동전 뒤집기
 - 보석 도둑
 - 순회강연
