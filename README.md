@@ -207,6 +207,30 @@ Backjoon Online Judge - Algorithm Study
 - 트리의 지름 [1967](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1967) 
 
 ---
+### 그리디 알고리즘
+- 동전 [11047](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11047)
+- 회의실배정 [1931](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1931)
+- ATM [11399](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11399)
+- 행렬
+- 전구와 스위치
+- 동전 뒤집기
+- 보석 도둑
+- 순회강연
+- 가장 긴 증가하는 부분 수열 2
+
+### 그리디 알고리즘 (연습)
+- 잃어버린 괄호
+- 수 묶기
+- 대회 or 인턴
+- 30
+- 병든 나이트
+- AB
+- A와 B
+
+### 그리디 알고리즘 (도전)
+- NMK
+- 롤러코스터
+- A와 B 2
 
 ### 브루트 포스 - 순열 (연습)
 - 부등호
@@ -253,30 +277,7 @@ Backjoon Online Judge - Algorithm Study
 - 소수 경로
 - 적록색약
 - 4연산
-### 그리디 알고리즘
-- 동전 0
-- 회의실배정
-- ATM
-- 행렬
-- 전구와 스위치
-- 동전 뒤집기
-- 보석 도둑
-- 순회강연
-- 가장 긴 증가하는 부분 수열 2
 
-### 그리디 알고리즘 (연습)
-- 잃어버린 괄호
-- 수 묶기
-- 대회 or 인턴
-- 30
-- 병든 나이트
-- AB
-- A와 B
-
-### 그리디 알고리즘 (도전)
-- NMK
-- 롤러코스터
-- A와 B 2
 
 ### 분할 정복
 - 숫자 카드
