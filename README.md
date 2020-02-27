@@ -213,13 +213,13 @@ Backjoon Online Judge - Algorithm Study
 - ATM [11399](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11399)
 - 행렬 [1080](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1080)
 - 전구와 스위치 [2138](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2138)
-- 동전 뒤집기
-- 보석 도둑
+- **동전 뒤집기**
+- 보석 도둑 [1202](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1202)
 - 순회강연
 - 가장 긴 증가하는 부분 수열 2
 
 ### 그리디 알고리즘 (연습)
-- 잃어버린 괄호
+- 잃어버린 괄호 [1541](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1541)
 - 수 묶기
 - 대회 or 인턴
 - 30
