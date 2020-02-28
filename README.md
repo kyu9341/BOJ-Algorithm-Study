@@ -169,7 +169,7 @@ Backjoon Online Judge - Algorithm Study
 - 이전 순열 [10973](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10973)  
 - 모든 순열 [10974](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10974) 
 - 차이를 최대로 [10819](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10819) 
-- 외판원 순회 2 [10971](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10971) 
+- **외판원 순회 2** [10971](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10971) 
 - 로또 [6603](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/6603) 
 ### 브루트 포스 - 재귀
 - 1, 2, 3 더하기 [9095](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9095) 
