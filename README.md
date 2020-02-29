@@ -53,7 +53,7 @@ Backjoon Online Judge - Algorithm Study
 ## 2020/02/28 6rd week 
 - 오늘 풀어본 문제 : [숨바꼭질 6 17087](https://www.acmicpc.net/problem/17087), [이친수 2193](https://www.acmicpc.net/problem/2193), [연속합 1912](https://www.acmicpc.net/problem/1912), [제곱수의 합 1699](https://www.acmicpc.net/problem/1699), [합분해 2225](https://www.acmicpc.net/problem/2225), [일곱 난쟁이 2309](https://www.acmicpc.net/problem/2309), [사탕 게임 3085](https://www.acmicpc.net/problem/3085), [DFS와 BFS 1260](https://www.acmicpc.net/problem/1260), [연결 요소의 개수 11724](https://www.acmicpc.net/problem/11724)
 
-- 다음 주까지 풀어올 문제 : 
+- 다음 주까지 풀어올 문제 : [RGB거리 1149](https://www.acmicpc.net/problem/1149), [동물원 1309](https://www.acmicpc.net/problem/2225), [일곱 난쟁이 1309](https://www.acmicpc.net/problem/2309), [오르막 수 11057](https://www.acmicpc.net/problem/11057), [스티커 9465](https://www.acmicpc.net/problem/9465), [포도주 시식 2156](https://www.acmicpc.net/problem/2156), [사탕 게임 3085](https://www.acmicpc.net/problem/3085), [이분 그래프 1707](https://www.acmicpc.net/problem/1707), [단지번호붙이기 2667](https://www.acmicpc.net/problem/2667)
 
 ![2020_02_28_6rd_week](https://github.com/kyu9341/BOJ-Algorithm-Study/blob/master/pictures/2020_02_28_6rd_week.jpg)
 
