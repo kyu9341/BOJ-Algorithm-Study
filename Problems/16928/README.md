@@ -28,7 +28,7 @@
 100번 칸에 도착하기 위해 주사위를 최소 몇 번 굴려야 하는지 출력한다.
 
 ### 문제 링크
-<https://www.acmicpc.net/problem/1074>
+<https://www.acmicpc.net/problem/16928>
 
 ### 예제 입력 1
 3 7
