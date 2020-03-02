@@ -228,7 +228,7 @@ Backjoon Online Judge - Algorithm Study
 
 ### 그리디 알고리즘 (연습)
 - 잃어버린 괄호 [1541](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1541)
-- 수 묶기
+- 수 묶기 [1774](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1774)
 - 대회 or 인턴
 - 30
 - 병든 나이트
@@ -247,10 +247,10 @@ Backjoon Online Judge - Algorithm Study
 - 배열 합치기 [11728](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11728)
 
 ### 분할 정복 (연습)
-- 종이의 개수
-- 하노이 탑 이동 순서
+- 종이의 개수 [1780](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1780)
+- 하노이 탑 이동 순서 [11729](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11729)
 - 트리의 순회
-- Z
+- Z [1074](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1074)
 - 사분면
 - 별 찍기 - 10
 - 별 찍기 - 11
