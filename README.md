@@ -271,11 +271,11 @@ Backjoon Online Judge - Algorithm Study
 - 버블 소트
 
 ### 이분 탐색
-- 수 이어 쓰기 2
-- 랜선 자르기
-- 나무 자르기
-- 공유기 설치
-- 중량제한
+- 수 이어 쓰기 2 [1790](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1790)
+- 랜선 자르기 [1654](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1654)
+- 나무 자르기 [2805](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2805)
+- 공유기 설치 [2110](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2110)
+- 중량제한 [1939](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1939)
 - 사다리
 - 선분과 점
 
