@@ -50,7 +50,7 @@ bool check[MAX + 1]; // 방문 여부
 bool dfs(int node, int weight, int target) // dfs를 통해 현재 중량 제한을 만족하는 길이 있는지 확인
 {
 	check[node] = true; // 방문 처리
-	if (check[target]) return true;
+	if (check[target]) return true;  // 목표 지점을 찾은 경우
 
 	for (int i = 0; i < a[node].size(); i++) // 연결된 섬 모두 확인
 	{
