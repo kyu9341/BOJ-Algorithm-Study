@@ -316,8 +316,8 @@ Backjoon Online Judge - Algorithm Study
 - 구슬 탈출 2
 - 2048 (Easy)
 ### BFS (연습)
-- 뱀과 사다리 게임
-- 데스 나이트
+- 뱀과 사다리 게임 [16928](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16928)
+- 데스 나이트 [16948](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16948)
 - DSLR
 - 연구소
 - 돌 그룹
