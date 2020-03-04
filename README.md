@@ -261,13 +261,13 @@ Backjoon Online Judge - Algorithm Study
 - 가장 가까운 두 점
 
 ### 정렬
-- 수 정렬하기 2
-- 좌표 정렬하기
-- 좌표 정렬하기 2
-- 나이순 정렬
+- 수 정렬하기 2 [2751](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2751)
+- 좌표 정렬하기 [11650](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11650)
+- 좌표 정렬하기 2 [11651](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11651)
+- 나이순 정렬 [10814](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10814)
 - 국영수
-- 수 정렬하기 3
-- 카드
+- 수 정렬하기 3 [10989](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10989)
+- 카드 [11652](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11652)
 - 버블 소트
 
 ### 이분 탐색
