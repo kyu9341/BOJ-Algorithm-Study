@@ -175,14 +175,14 @@ Backjoon Online Judge - Algorithm Study
 - 1, 2, 3 더하기 [9095](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9095) 
 - 암호 만들기 [1759](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1759) 
 - 퇴사 [14501](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14501) 
-- 스타트와 링크
-- 링크와 스타트
+- 스타트와 링크 [14889](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14889) 
+- 링크와 스타트 [15661](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/15661) 
 - 부등호
 - 맞춰봐
 ### 브루트 포스 - 비트마스크
 - 집합
 - 부분수열의 합 [1182](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1182) 
-- 스타트와 링크
+- 스타트와 링크 [14889](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14889) 
 - 종이 조각
 ### 그래프 1
 - ABCDE [13023](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13023) 
