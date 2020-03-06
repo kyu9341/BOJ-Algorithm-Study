@@ -265,7 +265,7 @@ Backjoon Online Judge - Algorithm Study
 - 좌표 정렬하기 [11650](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11650)
 - 좌표 정렬하기 2 [11651](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11651)
 - 나이순 정렬 [10814](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10814)
-- 국영수
+- 국영수 [10825](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10825)
 - 수 정렬하기 3 [10989](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10989)
 - 카드 [11652](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11652)
 - 버블 소트
