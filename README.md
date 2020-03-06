@@ -229,9 +229,9 @@ Backjoon Online Judge - Algorithm Study
 ### 그리디 알고리즘 (연습)
 - 잃어버린 괄호 [1541](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1541)
 - 수 묶기 [1774](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1774)
-- 대회 or 인턴
-- 30
-- 병든 나이트
+- 대회 or 인턴 [2875](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2875)
+- 30 [10610](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10610)
+- 병든 나이트 [1783](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1783)
 - AB
 - A와 B
 
@@ -280,7 +280,7 @@ Backjoon Online Judge - Algorithm Study
 - 선분과 점
 
 ### 이분 탐색 (연습)
-- 기타 레슨
+- 기타 레슨 [2343](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2343)
 - 구간 나누기 2
 - 배열에서 이동
 - K번째 수
