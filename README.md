@@ -290,7 +290,7 @@ Backjoon Online Judge - Algorithm Study
 ### 브루트 포스 - 순열 (연습)
 - 부등호 [2529](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2529)
 - 단어 수학 [1339](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1339)
-- 연산자 끼워넣기
+- 연산자 끼워넣기 [14888](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14888)
 - 스타트와 링크 [14889](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14889)
 
 ### 브루트 포스 - 재귀 (연습)
