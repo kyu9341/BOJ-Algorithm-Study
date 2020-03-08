@@ -268,7 +268,7 @@ Backjoon Online Judge - Algorithm Study
 - 국영수 [10825](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10825)
 - 수 정렬하기 3 [10989](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10989)
 - 카드 [11652](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/11652)
-- 버블 소트
+- 버블 소트 
 
 ### 이분 탐색
 - 수 이어 쓰기 2 [1790](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1790)
@@ -288,10 +288,10 @@ Backjoon Online Judge - Algorithm Study
 
 
 ### 브루트 포스 - 순열 (연습)
-- 부등호
-- 단어 수학
+- 부등호 [2529](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2529)
+- 단어 수학 [1339](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1339)
 - 연산자 끼워넣기
-- 스타트와 링크
+- 스타트와 링크 [14889](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14889)
 
 ### 브루트 포스 - 재귀 (연습)
 - 로또
