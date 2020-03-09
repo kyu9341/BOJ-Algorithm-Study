@@ -233,12 +233,12 @@ Backjoon Online Judge - Algorithm Study
 - 30 [10610](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10610)
 - 병든 나이트 [1783](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1783)
 - AB
-- A와 B
+- A와 B [12904](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/12904)
 
 ### 그리디 알고리즘 (도전)
 - NMK
 - 롤러코스터
-- A와 B 2
+- A와 B 2 [12919](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/12919)
 
 
 ### 분할 정복
@@ -325,7 +325,7 @@ Backjoon Online Judge - Algorithm Study
 - 벽 부수고 이동하기 4
 - 벽 부수고 이동하기 2
 - 벽 부수고 이동하기 3
-- 움직이는 미로 탈출
+- 움직이는 미로 탈출 [16954](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16954)
 - 탈출
 - 아기 상어
 - 레이저 통신
