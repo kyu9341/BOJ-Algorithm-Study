@@ -40,7 +40,7 @@ ABB
 
 	1. 마지막 문자가 A인 경우 맨 뒤의 A를 제거한다.
 	2. 마지막 문자가 B인 경우 B를 제거하고 문자를 뒤집는다.
-	
+
 - 위의 두 조건을 t에 적용하여 s와 크기가 같아지면 두 문자열을 비교하여 같다면 1, 다르면 0을 출력한다.
 
 ### 코드 설명
@@ -55,8 +55,8 @@ using namespace std;
 
 string eraseB(string t) // 마지막 자리의 B를 지우고 문자열을 뒤집는 함수
 {
+	t.erase(t.end() - 1, t.end());
 	reverse(t.begin(), t.end());
-	t.erase(t.begin(), t.begin() + 1);
 	return t;
 }
 string eraseA(string t) // 마지막 자리의 A를 지우는 함수
