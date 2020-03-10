@@ -108,7 +108,7 @@ int main(void)
 	cin.tie(nullptr);
 	cout.tie(nullptr);
 	cin >> n;
-	memset(a, ' ', sizeof(a));
+	memset(a, ' ', sizeof(a)); // 공백으로 초기화
 	go(0, 0, n);
 	printStar();
 }
