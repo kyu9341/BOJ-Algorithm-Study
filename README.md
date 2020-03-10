@@ -252,7 +252,7 @@ Backjoon Online Judge - Algorithm Study
 - 트리의 순회
 - Z [1074](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1074)
 - 사분면
-- 별 찍기 - 10
+- 별 찍기 - 10 [2447](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2447)
 - 별 찍기 - 11
 - 버블 소트
 
@@ -281,7 +281,7 @@ Backjoon Online Judge - Algorithm Study
 
 ### 이분 탐색 (연습)
 - 기타 레슨 [2343](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2343)
-- 구간 나누기 2
+- 구간 나누기 2 [13397](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13397)
 - 배열에서 이동
 - K번째 수
 - 놀이 공원
