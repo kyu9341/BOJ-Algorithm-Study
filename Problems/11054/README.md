@@ -1,4 +1,4 @@
-# Problem 11053
+# Problem 11054
 
 ## 가장 긴 바이토닉 부분 수열
 
@@ -18,7 +18,7 @@
 첫째 줄에 수열 A의 가장 긴 증가하는 부분 수열의 길이를 출력한다.
 
 ### 문제 링크
-<https://www.acmicpc.net/problem/11053>
+<https://www.acmicpc.net/problem/11054>
 
 ### 예제 입력 1
 6
