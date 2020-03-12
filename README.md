@@ -294,11 +294,11 @@ Backjoon Online Judge - Algorithm Study
 - 스타트와 링크 [14889](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14889)
 
 ### 브루트 포스 - 재귀 (연습)
-- 로또
+- 로또 [6603](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/6603) 
+- 부분수열의 합 [1182](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1182) 
 - 부분수열의 합
-- 부분수열의 합
-- 연산자 끼워넣기
-- 연산자 끼워넣기 (2)
+- 연산자 끼워넣기 [14888](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14888)
+- 연산자 끼워넣기 (2) [15658](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/15658)
 - 테트로미노
 - 두 동전
 - 에너지 모으기
