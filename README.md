@@ -282,8 +282,8 @@ Backjoon Online Judge - Algorithm Study
 ### 이분 탐색 (연습)
 - 기타 레슨 [2343](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2343)
 - 구간 나누기 2 [13397](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13397)
-- 배열에서 이동
-- K번째 수
+- 배열에서 이동 [1981](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1981)
+- K번째 수 [1300](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1300)
 - 놀이 공원
 
 
