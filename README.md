@@ -308,7 +308,7 @@ Backjoon Online Judge - Algorithm Study
 - 알파벳
 
 ### 브루트 포스 - 재귀 (참고)
-- 퇴사
+- 퇴사 [14501](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14501) 
 
 ### 브루트 포스 - 비트마스크 (연습)
 - 부분수열의 합
