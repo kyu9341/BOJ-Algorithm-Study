@@ -302,7 +302,7 @@ Backjoon Online Judge - Algorithm Study
 - 테트로미노
 - 두 동전
 - 에너지 모으기
-- N-Queen
+- N-Queen [9663](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9663) 
 - 스도쿠
 - 스도미노쿠
 - 알파벳
