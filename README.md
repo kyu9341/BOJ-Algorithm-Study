@@ -236,7 +236,7 @@ Backjoon Online Judge - Algorithm Study
 - A와 B [12904](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/12904)
 
 ### 그리디 알고리즘 (도전)
-- NMK
+- NMK [1201](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1201)
 - 롤러코스터
 - A와 B 2 [12919](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/12919)
 
@@ -303,7 +303,7 @@ Backjoon Online Judge - Algorithm Study
 - 두 동전
 - 에너지 모으기
 - N-Queen [9663](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9663) 
-- 스도쿠
+- 스도쿠 [2580](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2580) 
 - 스도미노쿠
 - 알파벳
 
@@ -327,7 +327,7 @@ Backjoon Online Judge - Algorithm Study
 - 벽 부수고 이동하기 3
 - 움직이는 미로 탈출 [16954](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16954)
 - 탈출
-- 아기 상어
+- 아기 상어 [16236](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/16236)
 - 레이저 통신
 - 소수 경로
 - 적록색약
