@@ -204,7 +204,6 @@ using namespace std;
 const int MAX = 8;
 int n, m;
 int a[MAX][MAX];
-bool check[MAX];
 int dx[] = { 0, 1, 0, -1 };
 int dy[] = { 1, 0, -1, 0 };
 vector<pair <pair<int, int>, int>> v;
