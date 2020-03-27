@@ -205,8 +205,8 @@ Backjoon Online Judge - Algorithm Study
 - 숨바꼭질 [1697](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1697) 
 - 숨바꼭질 4 [13913](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13913) 
 - 이모티콘 [14226](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14226) 
-- 숨바꼭질 3 [14226](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14226) 
-- 알고스팟 [14226](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14226) 
+- 숨바꼭질 3 [13549](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/13549) 
+- 알고스팟 [1261](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1261) 
 ### 트리 1
 - 트리 순회 [1991](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1991) 
 - 트리의 높이와 너비 
