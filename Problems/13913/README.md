@@ -134,7 +134,7 @@ int main(void)
 ```
 
 - 정답 코드
-```
+```C++
 #include<iostream>
 #include<vector>
 #include<algorithm>
