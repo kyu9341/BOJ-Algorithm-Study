@@ -1,4 +1,4 @@
-# Problem 1167
+# Problem 1967
 
 ## 트리의 지름
 
