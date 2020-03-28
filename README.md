@@ -299,7 +299,7 @@ Backjoon Online Judge - Algorithm Study
 - 부분수열의 합
 - 연산자 끼워넣기 [14888](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14888)
 - 연산자 끼워넣기 (2) [15658](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/15658)
-- 테트로미노
+- 테트로미노 [14500](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14500)
 - 두 동전
 - 에너지 모으기
 - N-Queen [9663](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9663) 
