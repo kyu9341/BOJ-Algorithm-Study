@@ -147,7 +147,7 @@ Backjoon Online Judge - Algorithm Study
 - 사탕 게임 [3085](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/3085)
 - 날짜 계산 [1476](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1476)
 - 리모컨 [1107](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1107)
-- 테트로미노
+- 테트로미노 [14500](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14500)
 - 카잉 달력 [6064](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/6064)
 - 수 이어 쓰기 1 [1748](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1748)
 - 1, 2, 3 더하기 [9095](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9095) 
