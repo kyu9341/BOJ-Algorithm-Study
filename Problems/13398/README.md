@@ -77,7 +77,7 @@ int main(void)
 	   
 	for (int i = 1; i <= n; i++)
 	{
-		if (n == 1) continue;
+		if (n == 1) continue;  // 최소 한 개의 수를 선택하는 조건이 우선
 		ans = max(ans, d[i - 1] + d2[i + 1]);
 	}
 		
