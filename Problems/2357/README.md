@@ -48,84 +48,76 @@ M개의 줄에 입력받은 순서대로 각 a, b에 대한 답을 최솟값, �
 
 ### 코드 설명
 ```C++
-#include<iostream>
 #include<algorithm>
+#include<iostream>
 #include<vector>
+#include<climits>
 
 using namespace std;
 const int MAX = 100000;
+
 int a[MAX + 1];
-int tree[MAX * 4 + 1];
+pair<int, int> tree[MAX * 4];
 
-int minIndex(int x, int y) // 더 작은 값의 인덱스를 반환하는 함수
-{
-	// 유효하지 않은 경우
-	if (x == -1) return y;
-	if (y == -1) return x;
-	// 같은 경우 더 작은 인덱스 리턴
-	if (a[x] == a[y]) return x < y ? x : y;
-	else return a[x] <= a[y] ? x : y;
+pair<int, int> init(int start, int end, int node)
+{ // 각 노드에 자식 노드의 최댓값, 최솟값을 가지는 세그먼트 트리 구성
+	if (start == end)
+	{ // 리프 노드 도착 시 최대, 최솟값 저장
+		tree[node].first = a[start];
+		tree[node].second = a[start];
+		return tree[node];
+	}
+
+	int mid = (start + end) >> 1;
+	// 좌측 노드로 이동
+	pair<int, int> left = init(start, mid, node * 2);
+	// 우측 노드로 이동
+	pair<int, int> right = init(mid + 1, end, node * 2 + 1);
+
+	tree[node].first = min(left.first, right.first);
+	tree[node].second = max(left.second, right.second);
+
+	return tree[node];
 }
 
-int init(int start, int end, int node)
+pair<int, int> query(int start, int end, int node, int left, int right)
 {
-	if (start == end) return tree[node] = start;
-	int mid = (start + end) / 2;
-
-	return tree[node] = minIndex(init(start, mid, node * 2), init(mid + 1, end, node * 2 + 1));
-}
-
-int update(int start, int end, int node, int index)
-{	// index를 찾았거나 범위를 벗어난 경우 현재 노드 리턴
-	if (start > index || end < index) return tree[node];
-	if (start == end) return tree[node];
-
-	int mid = (start + end) / 2;
-	// 더 작은 값을 가지는 인덱스로 update
-	return tree[node] = minIndex(update(start, mid, node * 2, index), update(mid + 1, end, node * 2 + 1, index));
-}
-
-int query(int start, int end, int node, int left, int right)
-{
-	// 구간을 벗어나는 경우
-	if (start > right || end < left) return -1;
-	// 완전히 구간 안에 들어온 경우
+	// 범위를 벗어난 경우 선택되지 않도록 INT_MAX, 0 리턴
+	if (start > right || end < left) return { INT_MAX, 0 };
+	// 범위 내에 완전히 들어온 경우 현재 노드 리턴
 	if (left <= start && end <= right) return tree[node];
 
-	int mid = (start + end) / 2;
-	// 더 작은 값을 가지는 인덱스 리턴
-	return minIndex(query(start, mid, node * 2, left, right), query(mid + 1, end, node * 2 + 1, left, right));
-}
+	int mid = (start + end) >> 1;
+	// 좌, 우측 노드로 이동하며 최대, 최솟값을 구함.
+	pair<int, int> l = query(start, mid, node * 2, left, right);
+	pair<int, int> r = query(mid + 1, end, node * 2 + 1, left, right);
 
+	pair<int, int> res;
+	res.first = min(l.first, r.first);
+	res.second = max(l.second, r.second);
+
+	return res;
+}
 
 int main(void)
 {
 	ios_base::sync_with_stdio(false);
 	cin.tie(nullptr);
 	cout.tie(nullptr);
-	int n, m;		
-	cin >> n;
+	int n, m;
+	cin >> n >> m;
+
 	for (int i = 1; i <= n; i++)
 		cin >> a[i];
-	cin >> m;
 
 	init(1, n, 1);
 
 	while (m--)
 	{
-		int q, index, v, left, right;
-		cin >> q;
-		if (q == 1)
-		{
-			cin >> index >> v;
-			a[index] = v;
-			update(1, n, 1, index);
-		}
-		if (q == 2)
-		{
-			cin >> left >> right;
-			cout << query(1, n, 1, left, right) << '\n';
-		}
+		int left, right;
+		cin >> left >> right;
+		pair<int, int> tmp = query(1, n, 1, left, right);
+		cout << tmp.first << ' ' << tmp.second << '\n';
 	}
 
 }
