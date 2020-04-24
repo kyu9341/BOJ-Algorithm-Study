@@ -232,7 +232,7 @@ Backjoon Online Judge - Algorithm Study
 - 대회 or 인턴 [2875](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2875)
 - 30 [10610](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/10610)
 - 병든 나이트 [1783](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1783)
-- AB
+- AB [12970](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/12970)
 - A와 B [12904](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/12904)
 
 ### 그리디 알고리즘 (도전)
