@@ -321,7 +321,7 @@ Backjoon Online Judge - Algorithm Study
 - DSLR [9019](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9019)
 - 연구소 [14502](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14502)
 - 돌 그룹 [12886](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/12886)
-- 벽 부수고 이동하기
+- 벽 부수고 이동하기 [2206](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2206)
 - 벽 부수고 이동하기 4
 - 벽 부수고 이동하기 2
 - 벽 부수고 이동하기 3
