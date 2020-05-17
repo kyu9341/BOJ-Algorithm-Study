@@ -305,7 +305,7 @@ Backjoon Online Judge - Algorithm Study
 - N-Queen [9663](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/9663) 
 - 스도쿠 [2580](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/2580) 
 - 스도미노쿠
-- 알파벳
+- 알파벳 [1987](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/1987)
 
 ### 브루트 포스 - 재귀 (참고)
 - 퇴사 [14501](https://github.com/kyu9341/BOJ-Algorithm-Study/tree/master/Problems/14501) 
